@@ -1,47 +1,55 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Chamuditha%20Diluminda&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-<h1 align="center">Hi 👋, I'm Chamuditha Diluminda</h1>
-<h3 align="center">Turning ideas into code | Software Engineering student 🚀</h3>
+<h3 align="center">Turning ideas into code | Software Engineering Student 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chamuditha20&label=Profile%20views&color=0e75b6&style=flat" alt="chamuditha20" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamuditha20" alt="chamuditha20" />
-</p>
-
-- 🌱 I’m currently learning **React Native, Laravel, Cloud Computing**
+### 👋 About Me
+- 🌱 Currently learning **React Native, Laravel & Cloud Computing**
 - 💬 Ask me about **Java, C, PHP, SQL**
-- 📫 How to reach me **chamudithadiluminda2002@gmail.com**
-- ⚡ Fun fact **I debug more than I code… and I still love it 🐛💻**
+- 📫 Reach me at **chamudithadiluminda2002@gmail.com**
+- ⚡ Fun fact: **I debug more than I code… and I still love it 🐛💻**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect With Me
 <p align="left">
-<a href="https://twitter.com/chamuditha_d" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/chamuditha-diluminda" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://facebook.com/chamuditha.d" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://instagram.com/chamuditha_diluminda" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamuditha20&show_icons=true&locale=en&layout=compact" />
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,c,php,laravel,mysql,html,css,js,react,flutter,git,linux,arduino,figma&theme=dark"/>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamuditha20&show_icons=true&locale=en" />
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chamuditha20&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamuditha20&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamuditha20" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamuditha20&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
 </p>
