@@ -3,13 +3,19 @@
 
 <h3 align="center">Turning ideas into code | Software Engineering Student 🚀</h3>
 
+<!-- Typing Animation (Emerald Green) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Android+Developer+📱;Laravel+Backend+Developer+🌐;Clean+Code+Enthusiast;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Android+Developer+📱;Laravel+Backend+Developer+🌐;Clean+Code+Enthusiast;Always+Learning+%26+Building" />
+</p>
+
+<!-- Pixel Art Mario Running Loop -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="360" alt="Pixel Art Mario Running"/>
 </p>
 
 ---
 
-<!-- Hero Section with GIF -->
+<!-- Hero Section -->
 <table align="center">
 <tr>
 <td width="55%" valign="top">
@@ -48,7 +54,7 @@ I enjoy transforming ideas into real-world solutions using
 ---
 
 ## 🛠️ Tech Stack & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=android,java,kotlin,laravel,php,mysql,html,css,js,react,git,linux,arduino,figma&theme=dark" />
 </p>
 
@@ -70,7 +76,7 @@ I enjoy transforming ideas into real-world solutions using
 ---
 
 ## 🤝 Connect With Me
-<p>
+<p align="center">
   <a href="mailto:chamudithadiluminda2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -89,5 +95,5 @@ I enjoy transforming ideas into real-world solutions using
 
 <!-- Footer GIF -->
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="100%" alt="Footer GIF"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
 </p>
