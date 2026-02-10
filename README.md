@@ -3,14 +3,12 @@
 
 <h3 align="center">Turning ideas into code | Software Engineering Student 🚀</h3>
 
-<!-- Typing Animation (Emerald Green) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Android+Developer+📱;Laravel+Backend+Developer+🌐;Clean+Code+Enthusiast;Always+Learning+%26+Building" />
 </p>
 
-<!-- Pixel Art Mario Running Loop -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="360" alt="Pixel Art Mario Running"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
@@ -45,6 +43,10 @@ I enjoy transforming ideas into real-world solutions using
 ---
 
 ## ✨ What I Do Best
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+</p>
+
 - ✔ Build **Android applications** with clean UI & logic  
 - ✔ Develop **Laravel-based backend systems & APIs**  
 - ✔ Design **database-driven applications**  
@@ -58,9 +60,17 @@ I enjoy transforming ideas into real-world solutions using
   <img src="https://skillicons.dev/icons?i=android,java,kotlin,laravel,php,mysql,html,css,js,react,git,linux,arduino,figma&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="140"/>
+</p>
+
 ---
 
 ## 🔍 Currently Learning
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif" width="160"/>
+</p>
+
 - React Native for cross-platform mobile apps  
 - Advanced Laravel (Authentication, APIs, Performance)  
 - Cloud fundamentals (deployment & services)
@@ -68,10 +78,22 @@ I enjoy transforming ideas into real-world solutions using
 ---
 
 ## 📌 Focus Areas
-- 📱 Mobile Application Development  
-- 🌐 Backend Development & APIs  
-- 🗄️ Database Design & Management  
-- ⚙️ Problem Solving & Logic Building  
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120"/><br/>
+📱 Mobile Development
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120"/><br/>
+🌐 Backend & APIs
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/><br/>
+🗄️ Databases
+</td>
+</tr>
+</table>
 
 ---
 
