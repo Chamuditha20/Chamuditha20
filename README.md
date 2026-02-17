@@ -13,7 +13,65 @@
 
 ---
 
-<!-- Hero Section -->
+<!-- ================= Animated Activity Dashboard ================= -->
+
+<div align="center">
+
+<!-- GRID BACKGROUND -->
+<svg width="100%" height="130" viewBox="0 0 1000 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#0d1117"/>
+      <rect x="1" y="1" width="18" height="18" fill="#161b22"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grid)" />
+</svg>
+
+<!-- PROGRESS BAR -->
+<svg width="90%" height="28" viewBox="0 0 900 28">
+  <rect x="0" y="10" width="900" height="8" rx="4" fill="#1f2937"/>
+  <rect x="0" y="10" width="680" height="8" rx="4" fill="#22c55e">
+    <animate attributeName="width" from="0" to="680" dur="2s" fill="freeze"/>
+  </rect>
+</svg>
+
+<br/>
+
+<!-- ACTIVITY / EQUALIZER BARS -->
+<svg width="90%" height="120" viewBox="0 0 900 120">
+  <g fill="#38bdf8">
+    <rect x="20"  y="60" width="12" height="40">
+      <animate attributeName="height" values="20;60;30;70;40" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="80;40;70;30;60" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="45"  y="50" width="12" height="50">
+      <animate attributeName="height" values="40;20;60;30;70" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="60;80;40;70;30" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="70"  y="55" width="12" height="45">
+      <animate attributeName="height" values="30;70;40;60;20" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="70;30;60;40;80" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="95"  y="45" width="12" height="55">
+      <animate attributeName="height" values="50;30;70;40;60" dur="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="50;70;30;60;40" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120" y="60" width="12" height="40">
+      <animate attributeName="height" values="20;60;30;70;40" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="80;40;70;30;60" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
+
+🏆 **Consistency. Growth. Daily Progress.**
+
+</div>
+
+---
+
+<!-- ================= Hero Section ================= -->
+
 <table align="center">
 <tr>
 <td width="55%" valign="top">
